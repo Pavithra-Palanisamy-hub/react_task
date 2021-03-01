@@ -1,0 +1,50 @@
+#root {
+  height:940px;
+  background-color: #ffcb91;
+  position: relative;
+}
+
+/* ========================================================= Container ==================================================================== */
+
+#container {
+  position: relative;
+  height: 568px;
+  width: 30%;
+  margin: auto;
+  background-color: #ffefa1;
+  top: 184px;
+}
+
+/* ========================================================= Section-1 ==================================================================== */
+
+#section-1 {
+  height:35%;
+}
+
+form#form-area {
+  height: 100%;
+  margin-left: 50px;
+  margin-right: 70px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ========================================================= Section-2 ==================================================================== */
+
+#section-2 {
+  height: 31%;
+  width: 100%;
+  padding-left: 51px;
+}
+
+.s2-top, .s2-middle, .s2-bottom {
+  height: 30%;
+  width:100%;
+}
+
+/* ========================================================= Section-3 ==================================================================== */
+
+#section-3 {
+  height: 78%;
+  width: 100%;
+}
